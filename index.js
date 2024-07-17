@@ -189,6 +189,19 @@
 // console.log(kichik);
 // console.log(kotta);
 
+// if15
+
+// let a = +prompt('a ni kiriting');
+// let b = +prompt('b ni kiriting');
+// let c = +prompt('c ni kiriting');
+// if (a+b > a+c && a+b > c+b) {
+//     console.log(a,b);
+// }else if (b+c > a+c && b+c > a+b) {
+//     console.log(b,c);
+// }else{
+// console.log(c,a);
+// }
+
 //----BOOLEAN----
 
 // bolean1
